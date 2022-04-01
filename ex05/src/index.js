@@ -1,6 +1,6 @@
 function main(){
 
-    var myString = "This is the first sting." + " This is the second sting.";
+    var myString = "This is the first string." + " This is the second string.";
 
     return myString;
 }
