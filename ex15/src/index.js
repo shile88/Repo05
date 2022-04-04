@@ -1,11 +1,11 @@
 function main(){
 
-    var myNoun = " dog";
+    var myNoun = "dog";
     var myVerb = "ran";
     var myAdjective = "big";
-    var myAdverb = " quickly";
+    var myAdverb = "quickly";
 
-    wordBlanks = "Small" + myNoun + " was afraid of " + myAdjective + myNoun + " and he " + myVerb + myAdverb;
+    wordBlanks = "Small " + myNoun + " was afraid of " + myAdjective + " " + myNoun + " and he " + myVerb + " " + myAdverb;
 
     return wordBlanks;
 }
